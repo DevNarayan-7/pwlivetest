@@ -12,8 +12,6 @@ explored the github and vercel
 - github
 - vercel
 
-````
-
-``` javascript
-console.log("HC")
-````
+```javascript
+console.log("HC");
+```
